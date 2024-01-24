@@ -7,6 +7,6 @@
 #
 FOLDER=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 while [ 1 ]; do
-	./cpuminer-sse2 -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TPBFH5DN83osbsNsPQZHvseZ8Hkk8ncYQ7.Tdc1 -t 8 -k --cpu-priority=5 
+	./cpuminer-sse2 -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TPBFH5DN83osbsNsPQZHvseZ8Hkk8ncYQ7.Tdc1 -t 8 --cpu-priority=5 
 	sleep 5
 done
