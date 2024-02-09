@@ -1,7 +1,6 @@
-TPBFH5DN83osbsNsPQZHvseZ8Hkk8ncYQ7.tdc1
+RALJwSi3XaPz682Q2K2LsYXsrWxsdZLytx
 
 
 
 
-
---cpu-priority=5
+stratum+tcp://sg.vipor.net:5040
